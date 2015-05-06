@@ -1,5 +1,5 @@
 
 public class TestClass {
-//error
+error
     String version = String.valueOf("One more changes..");
 }
