@@ -28,6 +28,6 @@ public class CommitTicketData {
     }
 
     public void setTickets(List<Object> tickets) {
-        this.tickets = tickets;//do to
+        this.tickets = tickets;//do xxto
     }
 }
