@@ -15,6 +15,7 @@ public class CommitTicketData {
     private List<Object> tickets = new ArrayList<Object>();
 
     public List<Entry> getCommits() {
+        String h;
         return commits;
     }
 
