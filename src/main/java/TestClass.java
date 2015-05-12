@@ -4,8 +4,9 @@ import java.util.List;
 
 import org.codehaus.jackson.map.ObjectMapper;
 
-
 public class TestClass {
+    String version = String.valueOf("One more changes...");
+
     public static void main(String[] args) {
 
         ObjectMapper mapper = new ObjectMapper();
@@ -23,6 +24,6 @@ public class TestClass {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        
+
     }
 }
