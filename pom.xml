@@ -23,5 +23,6 @@
   </dependencies>
   <build>
     <finalName>TestProjectForJenkinsPlugin</finalName>
+    <defaultGoal>install</defaultGoal>
   </build>
 </project>
